@@ -35,7 +35,7 @@ export function MainNav({
     {
         routes.map((route)=>(
             <Link
-            key={route.href}
+            key={route.href} // things 
             href={route.href}
                 className= {cn("text-sm font-medium transition-colors hover:text-primary",route.active? "text-black dark:text-white":"text-muted-foreground" )}>
       {route.label}
