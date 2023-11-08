@@ -27,7 +27,7 @@ export function MainNav({
         active:pathname===  ` /${params.storeId}/settings`
 
     }
-  ];
+  ];  // this is for
 
  return(
     <nav
