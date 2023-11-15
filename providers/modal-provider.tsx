@@ -3,7 +3,7 @@
 import { StoreModal } from "@/components/modals/store-modal";
 import { useState,useEffect } from "react"
 
-
+// stopping the hydration error
 
 
 export const ModalProvider =() =>{

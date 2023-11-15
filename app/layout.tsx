@@ -5,7 +5,7 @@ import { ClerkProvider } from '@clerk/nextjs'
 import { ModalProvider } from '@/providers/modal-provider'
 import { ToastProvider } from '@/providers/toast-proovider'
 const inter = Inter({ subsets: ['latin'] })
-
+//  start from here
 export const metadata: Metadata = {
   title: 'Faheem Ecomerce store',
   description: 'Store of the Art',

@@ -1,8 +1,8 @@
  import { create } from "zustand";
-
+ // this is for the 
  interface useStoreModalStore{
   isOpen:boolean;
-  onOpen:() =>void;
+  onOpen:() =>void;  
   onClose: ()=>void;
 
 
