@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 # Complete Ecomerce Project 
 ## Admin + client 
@@ -8,6 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 * shadcn & tailwind
 * planetScale as Database 
 * With Prisma 
+  * stripe for payment(upcoming)
 
 
 
